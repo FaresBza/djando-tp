@@ -41,8 +41,7 @@ INSTALLED_APPS = [
     "products",
     "rest_framework",
     "django_filters",
-    "drf_spectacular",
-    "products"
+    "drf_spectacular"
 ]
 
 REST_FRAMEWORK = {
